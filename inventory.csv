@@ -1,0 +1,6 @@
+mac,cooling_type,building,dim1,dim2,dim3,dim4,dim5,dim6,dim7,dim8,config_path
+00:01:aa:ff:ff:ff,air,a,abc,blah,ccc,ddd,eee,fff,ggg,hhh,template
+00:02:aa:ff:ff:ff,air,a,cde,bleh,iii,jjj,kkk,lll,mmm,nnn,
+00:03:aa:ff:ff:ff,imm,b,efg,blih,ttt,sss,rrr,qqq,ppp,ooo,
+00:04:aa:ff:ff:ff,imm,b,abc,bloh,uuu,vv,www,xxx,yyy,zzz,
+00:05:aa:ff:ff:ff,air,a,cde,bluh,ccc,ddd,eee,fff,ggg,hhh,
