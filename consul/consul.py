@@ -8,7 +8,7 @@ import json
 import numpy as np
 
 # Create/Update/Delete keys
-def modify_inventory(inventory = None, verb = None, consul_url = None, cols = None, mac_addr_col = 'mac', inventory_endpoint = None):
+def modify_inventory(inventory = None, verb = None, consul_url = None, cols = None, mac_addr_col = 'mac', inventory_endpoint = 'v1/kv/inventory/bos%2B'):
     start_time = time.time()
     
     if cols is None and verb != 'delete_all':
